@@ -1,0 +1,40 @@
+{
+    "title": "Você seria um herói ou vilão?",
+    "questions":[
+        {
+            "id": 1,
+            "question": "Qual super poder você escolheria? ",
+            "options":[
+                {"id":1, "name": "Raios-lasers", "alias": "A"},
+                {"id": 2, "name": "Voar", "alias": "B"},
+                {"id": 3, "name": "Explodir coisas", "alias": "A"},
+                {"id": 4, "name": "Curar feridas", "alias": "B"},
+                {"id": 5, "name": "Soltar fogos pelas mãos", "alias": "A"}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Quem você salvaria primeiro? ",
+            "options":[
+                {"id": 1, "name": "Crianças", "alias": "A"},
+                {"id": 2, "name": "Idosos", "alias": "A"},
+                {"id": 3, "name": "Não saberia responder", "alias": "B"}
+            ]
+        }
+    {
+        "id": 3,
+        "question": "Qual a sua preocupação ao enfrentar outro super ser? ",
+        "options":[
+            {"id": 1, "name": "Não destruri prédios", "alias": "B"},
+            {"id": 2, "name": "Socar a cara do inimigo", "alias": "A"},
+            {"id": 3, "name": "Não sujar meu traje", "alias": "A"},
+            {"id": 4, "name": "Não deixar nimguém se ferir", "alias": "B"}
+        ]
+    }
+],
+
+    "results": {
+        "A": "Você muito provavelmente seria um super vilão",
+        "B": "Você muito provavelmente seria um super herói"
+    }
+}
