@@ -20,7 +20,7 @@
                 {"id": 2, "name": "Idosos", "alias": "A"},
                 {"id": 3, "name": "Não saberia responder", "alias": "B"}
             ]
-        }
+        },
     {
         "id": 3,
         "question": "Qual a sua preocupação ao enfrentar outro super ser? ",
