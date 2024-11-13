@@ -1,27 +1,40 @@
-# Cloene do BuzzFeed em Angular
+# BuzzFeed Clone 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
+Este projeto é um clone simplificado do BuzzFeed, desenvolvido com Angular 14, como um exercício para praticar os conceitos da framework e aprimorar minhas habilidades em desenvolvimento front-end.
 
-## Development server
+## Funcionalidades
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+* **Quizzes interativos:** Responda perguntas e descubra qual personagem de filme/série/livro você é, qual comida combina com você, etc.
+* **Resultados personalizados:** Receba resultados diferentes com base em suas respostas.
+* **Compartilhamento social:** Compartilhe seus resultados nas redes sociais. (Funcionalidade ainda não implementada)
+* **Design responsivo:** Acesse o site em diferentes dispositivos com uma experiência otimizada.
 
-## Code scaffolding
+## Tecnologias utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* **Angular 14:** Framework JavaScript para desenvolvimento de aplicações web.
+* **HTML:** Linguagem de marcação para estruturação do conteúdo.
+* **CSS:** Linguagem de estilo para a aparência visual.
+* **TypeScript:** Superset do JavaScript que adiciona tipagem estática.
 
-## Build
+## Como executar o projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. **Clone o repositório:** `git clone https://github.com/cdaguiar23/dio-projeto-buzzfeed.git`
+2. **Navegue até o diretório do projeto:** `cd seu-repositorio`
+3. **Instale as dependências:** `npm install`
+4. **Inicie o servidor de desenvolvimento:** `ng serve`
+5. **Acesse o aplicativo no navegador:** `http://localhost:4200`
 
-## Running unit tests
+## Próximos passos
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* Implementar a funcionalidade de compartilhamento social.
+* Adicionar mais quizzes com diferentes temas.
+* Aprimorar o design e a interface do usuário.
+* Implementar testes unitários e de integração.
 
-## Running end-to-end tests
+## Contribuições
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-## Further help
+## Licença
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
